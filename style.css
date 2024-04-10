@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Raleway", sans-serif !important;
+}
+.navbar{
+    background-image: repeating-linear-gradient(242deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(287deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(197deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),repeating-linear-gradient(332deg, hsla(64,83%,54%,0.05) 0px, hsla(64,83%,54%,0.05) 1px,transparent 1px, transparent 11px,hsla(64,83%,54%,0.05) 11px, hsla(64,83%,54%,0.05) 12px,transparent 12px, transparent 32px),linear-gradient(287deg, rgb(41, 27, 158),rgb(249, 77, 212));
+}
+.nav-link{
+   
+    font-weight: bold !important;
+    font-size: 1rem !important;
+    border-radius: 10px;
+}
+
+.nav-link:hover{
+    background-color: #F94DD4;
+    color: black !important;
+}
+.btn-primary:hover{
+    background-color:#F94DD4 !important;
+    border: none;
+}
+.navbar-toggler {
+    background-color: #F94DD4 !important;
+    
+}
+.butn{
+    background-color:#F94DD4 !important;
+    border: none;
+    color: black;
+    font-weight: bold !important;
+}
+.butn:hover{
+    background-color:#7209b7 !important;
+    border: none;
+    color: white !important;
+    font-weight: bold !important;
+}
+.tts{
+   color: #F94DD4 !important;
+}
+.ttc{
+    color: #7209b7 !important;
+}
+.card-title{
+    color: #F94DD4 !important;
+}
+.card-text{
+    color: #7209b7 !important;
+}
